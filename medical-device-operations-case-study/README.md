@@ -8,6 +8,12 @@ An educational Excel case study exploring **10,000 device records across 18 faci
 
 - [Download Excel Workbook](./Excel_Medical_Device_Operations.xlsx)
 
+## Dashboard Preview
+
+![Medical device operations dashboard: twelve original charts rendered with LibreOffice](./dashboard-preview.png)
+
+Static preview of the workbook's original `Dashboard` chart area, rendered with LibreOffice. It shows the workbook's saved chart state, including a device-status total of **323**, which is stale relative to the **10,000-record dataset**. Recalculate and refresh in Microsoft Excel before interpreting the dashboard; the full-data results below were calculated separately. This static preview does not verify Excel slicer interaction or the results of recalculation.
+
 ## Tools and Structure
 
 - Microsoft Excel, **13 native PivotTables** and **12 dashboard charts**.

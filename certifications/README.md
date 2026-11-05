@@ -1,7 +1,11 @@
 # HackerRank Certifications
 
-**Author: Shraddha Yadav · PGDA0226**
+**Author: Shraddha Yadav**
 
-HackerRank SQL (Intermediate), Python (Basic) and SQL (Basic) certificates awarded to Shraddha Yadav on 5 November 2026.
+| Certificate | Earned | Certificate PDF |
+| --- | --- | --- |
+| SQL (Intermediate) | 5 November 2026 | [View certificate](HackerRank_SQL_Intermediate_Shraddha_Yadav.pdf) |
+| Python (Basic) | 5 November 2026 | [View certificate](HackerRank_Python_Basic_Shraddha_Yadav.pdf) |
+| SQL (Basic) | 5 November 2026 | [View certificate](HackerRank_SQL_Basic_Shraddha_Yadav.pdf) |
 
 [Return to the portfolio](../README.md)

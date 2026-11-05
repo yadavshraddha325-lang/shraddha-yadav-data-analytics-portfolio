@@ -4,6 +4,8 @@
 
 A data analytics portfolio covering **Excel, SQL, Python, machine learning and Power BI project reports**. Projects explore healthcare operations, environmental data, retail, customer behaviour and employee salary management. Each project README explains the methods, findings, available files and opening instructions. Source files, reports and existing output or design previews are included where supplied.
 
+**[View HackerRank certificates and previews](./certifications/README.md)**
+
 ## Featured Repositories
 
 These standalone repositories highlight selected projects. The full portfolio, with all project folders and supporting materials, continues below.

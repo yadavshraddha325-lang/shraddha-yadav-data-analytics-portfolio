@@ -9,6 +9,12 @@ An Excel analysis of a **3,000-record working extract covering 14 Great Britain 
 - [Download Excel Workbook](./Excel_GB_Carbon_Intensity.xlsx)
 - [View Project Report (PDF)](./Excel_GB_Carbon_Intensity_Report.pdf)
 
+## Dashboard Preview
+
+![GB regional carbon-intensity overview charts](./dashboard-preview.png)
+
+Static overview chart preview from the saved workbook. This version uses stored summary values; its dashboard dropdowns do not recalculate these charts.
+
 ## Tools and Structure
 
 - Microsoft Excel with a 12-field data table.

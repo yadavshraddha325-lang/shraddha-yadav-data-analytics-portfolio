@@ -9,6 +9,12 @@ An Excel operations case study covering **3,000 device records across 18 facilit
 - [Download Excel Dashboard](./Medical_Device_Analytics_Dashboard_Shraddha_Yadav_FINAL_REAL_PIVOT.xlsx)
 - [View Project Report (PDF)](./Medical_Device_Analytics_Project_Report_Shraddha_Yadav.pdf)
 
+## Dashboard Preview
+
+![Medical Device Analytics dashboard charts](./dashboard-preview.png)
+
+Static render of the chart section of the saved workbook. Download the Excel file to use its controls and inspect the underlying data.
+
 ## Dataset and Approach
 
 The workbook contains 3,000 unique device records representing 7,000 recorded units. It preserves 31 original fields and adds 16 analytical fields for time periods, device age, service-cost flags and operational priorities.

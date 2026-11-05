@@ -9,6 +9,12 @@ An Excel analytics project exploring **200 medical device records**, covering **
 - [View Project Report (PDF)](./Shraddha_Yadav_Regulatory_Dashboard_Project_Report%281%29.pdf)
 - [Open Excel Dashboard](./Shraddha_Dashboard_FINAL2%281%29.xlsx)
 
+## Dashboard Preview
+
+![Medical Device Regulatory Dashboard](./dashboard-preview.png)
+
+Static render of the saved Medical Device Dashboard worksheet. Download the workbook to use its supported Excel controls.
+
 ## Tools and Features
 
 - Microsoft Excel and SUMPRODUCT-based summaries.

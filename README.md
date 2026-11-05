@@ -4,6 +4,18 @@
 
 A data analytics portfolio covering **Excel, SQL, Python, machine learning and Power BI project reports**. Projects explore healthcare operations, environmental data, retail, customer behaviour and employee salary management. Each project README explains the methods, findings, available files and opening instructions. Source files, reports and existing output or design previews are included where supplied.
 
+## Featured Repositories
+
+These standalone repositories highlight selected projects. The full portfolio, with all project folders and supporting materials, continues below.
+
+| Repository | Tools and focus |
+| --- | --- |
+| [UK Air Monitoring — SQL Capstone](https://github.com/yadavshraddha325-lang/uk-air-monitoring-sql-capstone) | SQL Server / T-SQL; monitoring-site coverage, lifecycle and metadata quality |
+| [Medical Device Analytics Dashboard](https://github.com/yadavshraddha325-lang/medical-device-excel-dashboard) | Excel; revenue, service costs, downtime and compliance |
+| [Medical Device Regulatory Dashboard](https://github.com/yadavshraddha325-lang/medical-device-regulatory-excel-dashboard) | Excel; device approvals, complaints, adverse events and recall flags |
+| [Bank Marketing Machine Learning](https://github.com/yadavshraddha325-lang/bank-marketing-machine-learning) | Python / scikit-learn; subscription prediction and customer segmentation |
+| [Employee Salary Management](https://github.com/yadavshraddha325-lang/employee-salary-management-python) | Python; employee records, salary calculations and department analysis |
+
 ## Featured Capstone — UK Air Quality Monitoring Sites
 
 **SQL Server / T-SQL · 500 monitoring sites · 75 analysis queries**

@@ -10,6 +10,12 @@ An Excel analytics project exploring **3,000 air-quality records for 2024**, cov
 - [View Project Report (PDF)](./ShraddhaYadav_UKDashboard_Report.pdf)
 - [Download Editable Report (Word)](./ShraddhaYadav_UKDashboard_Report.docx)
 
+## Dashboard Chart Preview
+
+![UK air quality dashboard charts](./dashboard-preview.png)
+
+Static render of the chart section of the saved workbook. Download the Excel file to review the KPI cards and use the native slicers.
+
 ## Tools and Features
 
 - **Microsoft Excel:** six native PivotTables and six dashboard charts.
@@ -28,6 +34,16 @@ An Excel analytics project exploring **3,000 air-quality records for 2024**, cov
 | UK regions | 12 |
 | Pollutants | NO2, PM2.5, PM10, O3 and SO2 |
 | Dataset fields | 19 |
+
+## Key Findings in the Project Dataset
+
+| Stored workbook classification | Records | Share of records |
+| --- | ---: | ---: |
+| Threshold flag recorded | 1,820 | 60.67% |
+| Low air-quality band | 2,937 | 97.90% |
+| High or Very High air-quality band | 10 | 0.33% |
+
+These counts describe the classifications stored in the supplied project data. Threshold flags and air-quality bands use different rules. Read the interpretation notes below before drawing conclusions about measured exposure or regulatory compliance.
 
 ## How to Use
 

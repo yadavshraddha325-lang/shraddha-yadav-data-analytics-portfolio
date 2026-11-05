@@ -16,6 +16,16 @@ These standalone repositories highlight selected projects. The full portfolio, w
 | [Bank Marketing Machine Learning](https://github.com/yadavshraddha325-lang/bank-marketing-machine-learning) | Python / scikit-learn; subscription prediction and customer segmentation |
 | [Employee Salary Management](https://github.com/yadavshraddha325-lang/employee-salary-management-python) | Python; employee records, salary calculations and department analysis |
 
+## Certifications
+
+HackerRank certificates earned by **Shraddha Yadav**.
+
+| Certificate | Earned | Certificate PDF |
+| --- | --- | --- |
+| SQL (Intermediate) | 5 November 2026 | [View certificate](./certifications/HackerRank_SQL_Intermediate_Shraddha_Yadav.pdf) |
+| Python (Basic) | 5 November 2026 | [View certificate](./certifications/HackerRank_Python_Basic_Shraddha_Yadav.pdf) |
+| SQL (Basic) | 5 November 2026 | [View certificate](./certifications/HackerRank_SQL_Basic_Shraddha_Yadav.pdf) |
+
 ## Featured Capstone — UK Air Quality Monitoring Sites
 
 **SQL Server / T-SQL · 500 monitoring sites · 75 analysis queries**

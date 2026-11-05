@@ -10,6 +10,12 @@ An Excel analytics project exploring **3,000 working records and 19 fields cover
 - [View Project Report (PDF)](./ShraddhaYadav_UKDashboard_Report.pdf)
 - [Download Editable Report (Word)](./ShraddhaYadav_UKDashboard_Report.docx)
 
+## Dashboard Chart Preview
+
+![UK greenhouse gas dashboard charts](./dashboard-preview.png)
+
+Static render of the chart section of the saved workbook. Download the Excel file to review the KPI cards and use the native slicers.
+
 ## Tools and Features
 
 - **Microsoft Excel:** eight PivotTables and eight dashboard charts.

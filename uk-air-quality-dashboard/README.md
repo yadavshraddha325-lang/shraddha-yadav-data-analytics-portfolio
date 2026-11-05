@@ -14,7 +14,7 @@ An Excel analytics project exploring **3,000 air-quality records for 2024**, cov
 
 - **Microsoft Excel:** six native PivotTables and six dashboard charts.
 - **Four slicers:** Region, Pollutant, Site Type and Season.
-- **Six KPI cards** covering record counts, concentration and threshold comparisons.
+- **Six KPI cards:** readings in view, average concentration, WHO-threshold flag percentage and count, Low-band percentage, and High/Very High-band record count.
 - A **19-field dataset**, data dictionary and dataset documentation.
 - Matching PDF and Word reports explaining the methodology, audience and dashboard design.
 
@@ -41,3 +41,5 @@ An Excel analytics project exploring **3,000 air-quality records for 2024**, cov
 The workbook describes a prepared project dataset reflecting the Automatic Urban and Rural Network (AURN) structure. The report cites the [DEFRA UK-AIR Data Archive](https://uk-air.defra.gov.uk/data/); the package does not provide a reproducible source extract for independent provenance checking.
 
 Threshold flags are exploratory comparisons using the values stored in the workbook. The report and workbook use different reference values for **ozone (O3)** and **sulphur dioxide (SO2)**. Regulatory interpretation requires consistent thresholds and the correct averaging periods; comparing individual daily readings with annual guidelines does not establish regulatory noncompliance.
+
+The report's KPI descriptions differ from the current workbook's cards. The chart labelled **"exceedance days"** counts flagged records, including repeated date/site/pollutant combinations; it is not a distinct-day count.

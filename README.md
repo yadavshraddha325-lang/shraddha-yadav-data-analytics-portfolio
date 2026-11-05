@@ -51,3 +51,12 @@ An expanded Excel dashboard exploring **7,000 working records and 19 fields cove
 - [View the 7,000-Record Project and README](./uk-greenhouse-gas-dashboard-7000/README.md)
 - [Open the 7,000-Record Excel Dashboard](./uk-greenhouse-gas-dashboard-7000/ShraddhaYadav_UKDashboard_7000_REAL_Pivots_Slicers.xlsx)
 - [Read the 7,000-Record Project Report (PDF)](./uk-greenhouse-gas-dashboard-7000/ShraddhaYadav_UKDashboard_7000_Report.pdf)
+
+## UK Air Quality Dashboard
+
+An Excel project exploring a **3,000-record working dataset for 2024**, covering **34 monitoring sites, 12 UK regions and five pollutants**. It includes six PivotTables, six charts, four slicers and six KPI cards for concentration, air-quality bands and workbook-defined threshold comparisons. The project README explains dataset coverage and interpretation limits.
+
+- [View Air Quality Project and README](./uk-air-quality-dashboard/README.md)
+- [Open Air Quality Excel Dashboard](./uk-air-quality-dashboard/ShraddhaYadav_UKDashboard.xlsx)
+- [Read Air Quality Project Report (PDF)](./uk-air-quality-dashboard/ShraddhaYadav_UKDashboard_Report.pdf)
+- [Download Air Quality Project Report (Word)](./uk-air-quality-dashboard/ShraddhaYadav_UKDashboard_Report.docx)

@@ -35,7 +35,7 @@ A separate Excel project analysing **200 device records across 15 device types a
 - [Read Regulatory Project Report (PDF)](./medical-device-regulatory-dashboard/Shraddha_Yadav_Regulatory_Dashboard_Project_Report%281%29.pdf)
 - [Open Regulatory Excel Dashboard](./medical-device-regulatory-dashboard/Shraddha_Dashboard_FINAL2%281%29.xlsx)
 
-## UK Greenhouse Gas Emissions Dashboard
+## UK Greenhouse Gas Emissions Dashboard — 3,000 Records
 
 An Excel dashboard exploring **3,000 working records covering 2005–2023**, with eight PivotTables, eight charts, five slicers and six KPI cards. It compares emissions by geography, sector, gas and year. Results describe the working extract rather than annual UK totals.
 
@@ -43,3 +43,11 @@ An Excel dashboard exploring **3,000 working records covering 2005–2023**, wit
 - [Open UK Excel Dashboard](./uk-greenhouse-gas-dashboard/ShraddhaYadav_UKDashboard.xlsx)
 - [Read UK Project Report (PDF)](./uk-greenhouse-gas-dashboard/ShraddhaYadav_UKDashboard_Report.pdf)
 - [Download UK Project Report (Word)](./uk-greenhouse-gas-dashboard/ShraddhaYadav_UKDashboard_Report.docx)
+
+## UK Greenhouse Gas Emissions Dashboard — 7,000 Records
+
+An expanded Excel dashboard exploring **7,000 working records and 19 fields covering 2005–2023**, with eight PivotTables, eight charts, five slicers and six KPI cards. It compares emissions across geography, year, sector and gas. Full-extract findings and filter instructions are included in the project README.
+
+- [View the 7,000-Record Project and README](./uk-greenhouse-gas-dashboard-7000/README.md)
+- [Open the 7,000-Record Excel Dashboard](./uk-greenhouse-gas-dashboard-7000/ShraddhaYadav_UKDashboard_7000_REAL_Pivots_Slicers.xlsx)
+- [Read the 7,000-Record Project Report (PDF)](./uk-greenhouse-gas-dashboard-7000/ShraddhaYadav_UKDashboard_7000_Report.pdf)

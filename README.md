@@ -2,7 +2,49 @@
 
 **Author: Shraddha Yadav**
 
-Excel projects covering medical-device operations, regulatory-data summaries, emissions, air quality, electricity carbon intensity and road safety. Each project folder contains the original workbook and a README with methods, findings and opening instructions. Reports are linked where supplied.
+A data analytics portfolio covering **Excel, SQL, Python, machine learning and Power BI project reports**. Projects explore healthcare operations, environmental data, retail, customer behaviour and employee salary management. Each project README explains the methods, findings, available files and opening instructions. Source files, reports and existing output or design previews are included where supplied.
+
+## Featured Capstone — UK Air Quality Monitoring Sites
+
+**SQL Server / T-SQL · 500 monitoring sites · 75 analysis queries**
+
+The [UK Air Quality Monitoring Sites capstone](./sql-uk-air-monitoring-capstone/README.md) analyses geographic coverage, site characteristics, lifecycle and metadata quality across **35 zones and nine environment types**. All 500 records contain coordinates, while only 41 contain a site description, making metadata completeness a useful operational finding. This project analyses site metadata rather than pollutant-concentration readings.
+
+The folder includes the original self-contained SQL Server script, dataset, data dictionary, query index and **34-page capstone report**.
+
+**[Explore the capstone and opening instructions](./sql-uk-air-monitoring-capstone/README.md)** · [Read the capstone report](./sql-uk-air-monitoring-capstone/ShraddhaYadav_SQLPhase2_Report.pdf)
+
+## SQL Project Index
+
+| Project | Data supplied | Platform and focus |
+| --- | ---: | --- |
+| [UK Air Quality Monitoring Sites — Capstone](./sql-uk-air-monitoring-capstone/README.md) | 500 sites | SQL Server; coverage, lifecycle and metadata quality |
+| [Diversified Ecommerce](./sql-diversified-ecommerce/README.md) | 5,000 product records | SQLite; pricing, stock, supplier exposure and service risk |
+| [Online Retail Customer Reach and Product Demand](./sql-online-retail-data/README.md) | 5,000 transaction lines | SQLite; market coverage, customers, demand and missing identifiers |
+| [Online Retail II Sales and Returns](./sql-online-retail-ii/README.md) | 5,000 transaction lines | SQLite; sales, cancellations and trends across the supplied sample |
+| [Online Retail Transaction Access and Returns](./sql-online-retail-transactions/README.md) | 5,000 transaction lines | SQLite; transaction access, returns and data quality |
+| [Smoking Behaviour and Demographic Analysis](./sql-smoking-behaviour/README.md) | 1,691 respondents | SQLite; smoking prevalence, demographic variation and consumption |
+
+Each SQLite project includes its SQL, cleaned CSV, report and a populated companion database for exploring the queries. The smoking sample contains 421 smokers, a **24.90%** prevalence rate. The ecommerce sample contains **476 low-stock records** and **2,597 high-return records**, using the supplied flags. Findings describe the supplied samples and definitions.
+
+Online Retail Customer Reach and Online Retail Transaction Access are separate supplied query/report packages that share the same cleaned CSV. The portfolio also includes expanded Excel versions; these should be understood as related project versions rather than independent datasets.
+
+## Python and Machine Learning
+
+| Project | Tools and scope | Selected result |
+| --- | --- | --- |
+| [Employee Salary Management System](./python-employee-salary-system/README.md) | Python; employee records, input validation, salary and department analysis | Ten starter records produce **£460,200** total annual net salary and a **£46,020** average |
+| [Bank Marketing: Prediction and Customer Segmentation](./machine-learning-bank-marketing/README.md) | Python, pandas and scikit-learn; three classifiers, K-Means and PCA | Saved results show Random Forest achieving the highest compared **F1 of 0.377**; the previously engaged cluster has a **63.13%** observed subscription rate |
+
+The Python application includes source code and documented console-output evidence. The machine-learning project includes the **41,188-row** source CSV, executable notebook with saved outputs, report and two result previews. Its predictive model excludes call duration, and the README explains the class imbalance and modest positive-class recall.
+
+## Power BI — Olist E-Commerce Operations
+
+The [Olist E-Commerce Operations project](./powerbi-olist-ecommerce/README.md) documents a dashboard design for product value, delivery performance and customer reviews. It includes the original report, seven related source tables, and the report's data-model and dashboard-layout figures. The item table contains **112,650 records**; direct source-data analysis identifies **health and beauty** as the largest category by summed item price.
+
+**Current availability:** report, data and design figures are available. The supplied project descriptor is missing its native report and semantic-model companion folders, and no standalone PBIX was supplied. The original dashboard therefore cannot yet be opened and refreshed from this package. The project README explains the missing files and clearly distinguishes design figures from populated dashboard screenshots.
+
+[View the Power BI project, findings and available files](./powerbi-olist-ecommerce/README.md)
 
 ## Excel Project Index
 

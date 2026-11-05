@@ -9,6 +9,12 @@ An Excel analytics project exploring a **7,000-record working extract with 19 fi
 - [Download Excel Dashboard](./ShraddhaYadav_UKDashboard_7000_REAL_Pivots_Slicers.xlsx)
 - [View Project Report (PDF)](./ShraddhaYadav_UKDashboard_7000_Report.pdf)
 
+## Dashboard Chart Preview
+
+![UK greenhouse gas dashboard charts — 7,000-record workbook](./dashboard-preview.png)
+
+Static render of the chart section of the saved workbook, with the **Commercial** sector selected. The full-extract findings below include all 7,000 records; use Excel's slicer controls to change the view.
+
 ## Tools and Features
 
 - **Microsoft Excel:** eight native PivotTables and eight dashboard charts.
